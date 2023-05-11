@@ -1,0 +1,57 @@
+body{
+    background-color:dimgray;
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+
+#main {
+    padding: 20px;
+    border: none;
+    width: 500px;
+    height: 400px;
+    margin:100px 400px;
+    background-color: darkorange;
+    
+}
+.container{
+    /*align-items: center;*/
+    padding-right: 300px;
+    padding-bottom: 10px;
+    
+}
+ label {
+    display: block;
+    
+}     
+
+.container input{
+    padding: 8px;
+    width: 300px;
+}
+
+
+
+.button{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+}
+.button:hover {
+    background-color: red;
+    color: white;
+}
+
+#users{
+    color: white;
+    }
+
+.items {
+    list-style:none;
+    border-bottom: 10px;
+    
+}
+erro{
+    background-color: aquamarine;
+}
+

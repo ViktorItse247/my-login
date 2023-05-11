@@ -1,0 +1,53 @@
+body{
+    background-color:dimgray;
+    width: auto;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+
+#main-header {
+    background-color: coral;
+    size: 18px;
+    color: white;
+}
+#container {
+    padding:  20px;
+    border: none;
+    margin: auto;
+    background-color: darkorange;
+    display: block;
+    
+}
+
+ #container label {
+    display: block;
+}
+
+.my-form{
+    padding-bottom: 15px;
+}
+
+.my-form input  [type=text] {
+    padding: 10px;
+    width: 300px;
+   
+}
+
+li{
+    text-decoration: none;
+    display: inline;
+    padding-right: 15px;    
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    justify-content: center;
+    margin-top: 
+    
+    
+}
+.btn:hover {
+    background-color: red;
+    color: white;
+}
